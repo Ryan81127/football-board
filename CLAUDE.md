@@ -1,5 +1,7 @@
 # 專案規則（每個工作階段開始前必讀）
 
+> 本檔與 `CLAUDE.md`／`AGENTS.md` 內容相同（`CLAUDE.md` 給 Claude、`AGENTS.md` 給 Cursor 等其他 AI 工具），修改時兩份要一起改。
+
 這是 Ryan 的**運動轉播看板**專案（足球 `football/`、籃球 `basketball/`），和 Amway 遊戲（`amway-life-game`）是不同的專案。推上 `main` 就會自動上線。
 
 1. 這裡只放運動看板（足球、籃球）。不要加入 Amway 遊戲的內容；Amway 遊戲裡也不要放運動看板。
